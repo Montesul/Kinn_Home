@@ -1,0 +1,157 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:regular);
+
+* {
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
+
+header {
+    width: 1424px;
+    height: 113px;
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.header_line {
+    height: 16px;
+}
+
+.header_container {
+    position: absolute;
+    margin: 0 auto;
+    height: 77px;
+    width: 1360px;
+    left: 0%;
+    right: 0%;
+    top: 16px;
+}
+
+.color {
+    background-color: #FFFFEF;
+}
+
+
+.pages {
+    position: relative;
+    width: 585px;
+    height: 77px;
+}
+
+.home_page {
+    position: absolute;
+    bottom: 19.5px;
+    left: 34px;
+
+    font-size: 16px;
+    line-height: 25px;
+    
+    letter-spacing: 1.575px;
+    text-transform: uppercase;
+}
+
+.style_quiz_page {
+    position: absolute;
+    bottom: 19.5px;
+    left: 144px;
+
+    font-size: 16px;
+    line-height: 25px;
+    
+    letter-spacing: 1.575px;
+    text-transform: uppercase;
+}
+
+.about_page {
+    position: absolute;
+    bottom: 19.5px;
+    left: 283px;
+
+    font-size: 16px;
+    line-height: 25px;
+    
+    letter-spacing: 1.575px;
+    text-transform: uppercase;
+}
+
+.stories_page {
+    position: absolute;
+    bottom: 19.5px;
+    left: 412px;
+
+    font-size: 16px;
+    line-height: 25px;
+    
+    letter-spacing: 1.575px;
+    text-transform: uppercase;
+}
+
+
+
+
+.func_icon > img {
+    height: 32px;
+    width: 32px;
+}
+
+a {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+
+    letter-spacing: 1.575px;
+
+    color: #56593D;
+}
+
+
+
+
+
+.title_icon > img {
+    width: 90px;
+    height: 26px;
+}
+
+.title_icon {
+    position: absolute;
+    height: 26px;
+    left: 635px;
+    top: 33px;
+}
+
+.search {
+    margin-left: 15px;
+    margin-right: 17px;
+}
+
+.func_icon {
+    position: absolute;
+    right: 40px;
+    bottom: 7px;
+}
+
+#count_item {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    right: -5px;
+    bottom: 0;
+
+    color: #56593D;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    
+    background: #FFFFEF;
+    border-radius: 20px;
+}

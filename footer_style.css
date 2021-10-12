@@ -1,0 +1,138 @@
+footer {
+    background: #717353;
+    width: 1424px;
+    height: 382px;
+    margin: 0 auto;
+    position: relative;
+}
+
+footer > * {
+    color: #FFFFEF;
+    font-size: 15px;
+    margin-top: 65px;
+}
+
+.footer_slash {
+    width: 40px;
+    border-bottom: 1px solid #FFFFEF;
+    position: absolute;
+    margin-top: -15px;
+}
+
+.m33 {
+    margin-bottom: 25px;
+}
+
+.text > * {
+    text-transform: uppercase;
+    letter-spacing: 1.575px;
+    color: #FFFFEF;
+}
+
+
+.footer_container {
+    position: absolute;
+    display: flex;
+    width: 1360px;
+    height: 221px;
+    margin-top: 64px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 97px;
+}
+
+.area_footer_1 {
+    position: relative;
+    height: 124px;
+    width: 316px;
+    left: 0%;
+    right: 75%;
+    top: 0px;
+    margin-right: 32px;
+}
+
+.text_1_area_footer_1 {
+    position: absolute;
+    left: 1px;
+    top: 0px;
+    font-size: 16px;
+    line-height: 25px;
+    width: 63px;
+}
+
+.text_2_area_footer_1 {
+    font-size: 15px;
+    line-height: 25px;
+    position: absolute;
+    left: 64px;
+    top: 0px;
+}
+
+.area_footer_1 > .footer_slash {
+    position: absolute;
+    top: 57px;
+}
+
+.text_3_area_footer_1 {
+    height: 51px;
+    width: 256px;
+    font-size: 16px;
+    line-height: 25px;
+    position: absolute;
+    left: 1px;
+    top: 60px;
+}
+
+
+
+
+
+.area_footer_2 {
+    position: relative;
+    height: 221px;
+    width: 253px;
+    left: 0%;
+    right: 75%;
+    top: -4px;
+    margin-right: 95px;
+    padding-left: 60px;
+}
+
+.area_footer_2 > .footer_slash {
+    position: absolute;
+    top: 55px;
+}
+
+.pages_footer_2 {
+    padding-top: 10px;
+}
+
+.area_footer_3 {
+    position: relative;
+    height: 221px;
+    width: 253px;
+    left: 0%;
+    right: 75%;
+    top: -4px;
+    margin-right: 291px;
+    padding-left: 14px;
+}
+
+.area_footer_3 > .footer_slash {
+    position: absolute;
+    top: 55px;
+}
+
+.pages_footer_3 {
+    padding-top: 10px;
+}
+
+.area_footer_4 {
+    margin-top: 7px;
+    margin-right: -10px;
+    display: flex;
+    justify-content: space-around;
+    width: 131px;
+    height: 25px;
+    
+}
